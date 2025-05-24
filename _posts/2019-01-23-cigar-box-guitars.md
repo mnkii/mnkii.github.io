@@ -165,7 +165,7 @@ gallery:
 I am certainly no luthier, but after [a few failed attempts](/img/cigar-box-guitar-build/failed-attempts.jpg), a lot of
 trial and error and a lot of fun, I now have a couple of very playable Cigar Box Guitars.
 
-![image](/img/cigar-box-guitar-build/2-guitars.jpg)
+![image](/assets/images/cigar-box-guitar-build/2-guitars.jpg)
 
 There are so many resources out there to get up and running,
 [Glenn Watt's](https://www.youtube.com/channel/UC27KwzlBGeTQInXHZ9cRzQw) youtube channel is really inspirational.
