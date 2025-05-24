@@ -7,13 +7,17 @@ draft: false
 summary: foo
 teaser:
   text: |
-    A robotic drum / percussion machine thing.
-        <p><iframe width="480" height="270" src="https://www.youtube.com/embed/oNB-VddAX4o" frameborder="0" allowfullscreen></iframe></p>
+    A Raspberry Pi powered mechanical drum machine.
+    <div class="video-wrapper">
+      <iframe src="https://www.youtube.com/embed/oNB-VddAX4o" allowfullscreen></iframe>
+    </div>
 ---
 
-A robotic drum / percussion machine thing.
+A Raspberry Pi powered mechanical drum machine.
 
-<iframe width="480" height="270" src="https://www.youtube.com/embed/oNB-VddAX4o" frameborder="0" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/oNB-VddAX4o" allowfullscreen></iframe>
+</div>
 
 The electronics consist of 8 12v solenoids connected to a Raspberry Pi via a relay. It can be controlled by the
 web based drum sequencer which I have called [PiBeat](/post/pibeat), or drum patterns can be scripted.

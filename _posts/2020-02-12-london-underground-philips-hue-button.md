@@ -7,14 +7,18 @@ teaser:
   text: |
     A decommissioned Jubilee Line door button turned in to a Philips Hue light switch, complete with Sonos
     integration for a little bit of disco.
-    <p><iframe width="480" height="270" src="https://www.youtube.com/embed/HGSPCLT5efM"></iframe></p>
+    <div class="video-wrapper">
+      <iframe src="https://www.youtube.com/embed/HGSPCLT5efM"></iframe>
+    </div>
 
 ---
 
 A decommissioned Jubilee Line door button turned in to a Philips Hue light switch, complete with Sonos integration for
 a little bit of disco.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HGSPCLT5efM?si=ZSNAvSJyxemp1orn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="video-wrapper">
+  <iframe src="https://www.youtube.com/embed/HGSPCLT5efM?si=ZSNAvSJyxemp1orn" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
 
 I picked up a [decommissioned Jubilee line door button](https://www.ltmuseumshop.co.uk/vintage-shop/railwayana/jubilee-line-buttons)
 after a trip to the London Transport museum. Given my addiction to Hue lights, a switch was the obvious thing to do with
