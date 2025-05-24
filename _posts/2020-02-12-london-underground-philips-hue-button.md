@@ -37,10 +37,10 @@ One of the tricky parts of the project was the Sonos integration, I've created a
 [small app](https://github.com/mnkii/sonos-token) to ease the generation of Sonos auth tokens for Microcontroller projects.
 
 
-<img src="/img/door-button/lit-up.jpg" alt="Lit up button" width="1024" height="683">
+<img src="/assets/images/door-button/lit-up.jpg" alt="Lit up button" width="1024" height="683">
 
-<img src="/img/door-button/purple.jpg" alt="Purple button" width="1024" height="683">
+<img src="/assets/images/door-button/purple.jpg" alt="Purple button" width="1024" height="683">
 
-<img src="/img/door-button/as-purchased.jpg" alt="As purchased" width="683" height="1024">
+<img src="/assets/images/door-button/as-purchased.jpg" alt="As purchased" width="683" height="1024">
 
-<img src="/img/door-button/back.jpg" alt="Back of button" width="683" height="1024">
+<img src="/assets/images/door-button/back.jpg" alt="Back of button" width="683" height="1024">

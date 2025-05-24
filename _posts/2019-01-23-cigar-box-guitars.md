@@ -6,53 +6,53 @@ redirect_from:
 draft: false
 teaser:
   text: I am certainly no luthier, but after a few failed attempts, a lot of trial and error and a lot of fun, I now have a couple of very playable Cigar Box Guitars.
-  image: /img/cigar-box-guitar-build/2-guitars.jpg
+  image: /assets/images/cigar-box-guitar-build/2-guitars.jpg
 gallery:
-  - src: /img/cigar-box-guitar-build/basic-parts.jpg
+  - src: /assets/images/cigar-box-guitar-build/basic-parts.jpg
     text: Timber ready for cutting
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/router-setup.jpg
+  - src: /assets/images/cigar-box-guitar-build/router-setup.jpg
     text: Round-over bit set on the router.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/routing.jpg
+  - src: /assets/images/cigar-box-guitar-build/routing.jpg
     text: Routing the complete length of the back of the heel, and about 400mm of the back of the neck for a nice rounded profile.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/table-saw-neck.jpg
+  - src: /assets/images/cigar-box-guitar-build/table-saw-neck.jpg
     text: Cutting the scarf join on the table saw. After much experimentation I ended up making a sled for this cut.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/tablesaw-sled.jpg
+  - src: /assets/images/cigar-box-guitar-build/tablesaw-sled.jpg
     text: The back of the sled - the glued on metal bar fits nicely into the table slot to guide the sled.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/angled-cuts.jpg
+  - src: /assets/images/cigar-box-guitar-build/angled-cuts.jpg
     text: And that is most of the cuts and routing done. The cut on the heel was done with the tilt on the table saw.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/sanding-heel.jpg
+  - src: /assets/images/cigar-box-guitar-build/sanding-heel.jpg
     text: A little tidying up of the heel before gluing.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/pre-glue.jpg
+  - src: /assets/images/cigar-box-guitar-build/pre-glue.jpg
     text: Ready for gluing.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/gluing-scarf-joint.jpg
+  - src: /assets/images/cigar-box-guitar-build/gluing-scarf-joint.jpg
     text: Gluing the scarf joint. I find this one of the hardest parts of the process as the timber never wants to lay flat.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/clamping-heel.jpg
+  - src: /assets/images/cigar-box-guitar-build/clamping-heel.jpg
     text: Gluing the heel to the neck.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/headstock.jpg
+  - src: /assets/images/cigar-box-guitar-build/headstock.jpg
     text: Holes cut for the tuning pegs. A 9.5mm is the perfect size. I've positioned the holes so the string do not overlap.
     width: 600
     height: 800
-  - src: /img/cigar-box-guitar-build/frets-cut.jpg
+  - src: /assets/images/cigar-box-guitar-build/frets-cut.jpg
     text: Cutting the slots for the frets with a Stanley Fat Max saw, using the [fret position calculator at Stewmac](https://www.stewmac.com/FretCalculator) to do the maths.
     width: 800
     height: 600

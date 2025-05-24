@@ -4,12 +4,12 @@ date: 2020-01-03T01:02:01Z
 draft: false
 teaser:
     text: My analogue style MIDI step sequencer.
-    image: /img/drum-sequencer/front.jpg
+    image: /assets/images/drum-sequencer/front.jpg
 ---
 
 My analogue style MIDI step sequencer.
 
-![image](/img/drum-sequencer/front.jpg)
+![image](/assets/images/drum-sequencer/front.jpg)
 
 <!--more-->
 
@@ -22,6 +22,6 @@ the [bald engineer](https://www.baldengineer.com/arduino-keyboard-matrix-tutoria
 The diodes ares 1N4148, the box was from the [The Works](https://www.theworks.co.uk). The source code and
 more circuit details are on [github](https://github.com/mnkii/arduino-midi-drum-sequencer/blob/master/arduino-midi-drum-sequencer.ino)
 
-![image](/img/drum-sequencer/inside.jpg)
+![image](/assets/images/drum-sequencer/inside.jpg)
 
-![image](/img/drum-sequencer/back.jpg)
+![image](/assets/images/drum-sequencer/back.jpg)
