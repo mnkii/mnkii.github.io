@@ -16,6 +16,15 @@
   }
 }
 
+// Post images
+.post-content {
+  img {
+    height: auto;
+    margin: 1rem auto;
+    display: block;
+  }
+}
+
 .social-links {
   .social-icon {
     width: 35px;
