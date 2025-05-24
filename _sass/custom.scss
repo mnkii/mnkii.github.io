@@ -1,0 +1,10 @@
+
+.social-links {
+  .social-icon {
+    width: 35px;
+    margin-left: 10px;            
+    &:hover {
+      opacity: 0.6;
+    }
+  }
+}

@@ -36,6 +36,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# SASS settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
 # Set permalink structure for posts
 permalink: /post/:title/
 
