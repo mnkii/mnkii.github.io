@@ -24,6 +24,11 @@ layout: default
         {%- if post.teaser.image -%}
           <img src="{{ post.teaser.image }}" alt="{{ post.title }}">
         {%- endif -%}
+        <p class="read-more">
+          <a href="{{ post.url | relative_url }}">
+            Read more...
+          </a>
+        </p>
       </li>
       {%- endfor -%}
     </ul>
