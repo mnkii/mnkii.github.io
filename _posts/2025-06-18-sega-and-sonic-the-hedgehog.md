@@ -1,7 +1,6 @@
 ---
 title: "Sega and Sonic the Hedgehog"
 date: 2025-06-18T01:02:01Z
-draft: true
 teaser:
     text: My journey into the world of Sonic the Hedgehog
     image: /assets/images/sega-and-sonic-the-hedgehog/sega-bell.jpeg
